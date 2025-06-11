@@ -1,0 +1,3 @@
+product,price
+Cheese,£1.95
+Milk,£1.43

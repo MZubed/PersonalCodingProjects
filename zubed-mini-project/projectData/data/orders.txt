@@ -1,0 +1,3 @@
+Customer Name,Customer Address,Customer Phone,Customer Courier,Status,Customer Product
+Zubed,London,123,1,Preparing,2
+Andrew,New York,123,2,Preparing,1
